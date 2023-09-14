@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-13T11:41:39.660Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="kQyvQP4mf-SntrCb3QH5" version="21.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-14T08:12:54.738Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="1vWpFqfIJvZqsM3_sCkJ" version="21.7.4" type="github">
   <diagram name="Stránka-1" id="3PBPj4A7SnuS5fqXDSdj">
     <mxGraphModel dx="2336" dy="1974" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -302,7 +302,7 @@
         <mxCell id="dvN6BULuj6MkzKKFIKqG-43" value="Finish" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="920" y="-20" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dvN6BULuj6MkzKKFIKqG-44" value="Item 1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="dvN6BULuj6MkzKKFIKqG-43" vertex="1">
+        <mxCell id="dvN6BULuj6MkzKKFIKqG-44" value="hideEmailTimelineItem" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="dvN6BULuj6MkzKKFIKqG-43" vertex="1">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dvN6BULuj6MkzKKFIKqG-47" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=entityRelationEdgeStyle;" parent="1" source="dvN6BULuj6MkzKKFIKqG-15" target="dvN6BULuj6MkzKKFIKqG-43" edge="1">
