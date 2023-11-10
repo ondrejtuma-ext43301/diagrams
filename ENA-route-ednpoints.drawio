@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-10T14:50:10.886Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="K5Ig93jf99eiFsSHrOkR" version="22.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-10T15:02:48.330Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="3dNJr6Q24CKkK0q-1FqQ" version="22.1.0" type="github">
   <diagram name="Page-1" id="2c0d36ab-eaac-3732-788b-9136903baeff">
-    <mxGraphModel dx="3119.5" dy="729" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="6533.5" dy="2550" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -403,8 +403,8 @@
             <mxPoint x="1880" y="754.5" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jC42f-P9hnnGWAA6iQzn-188" value="/v1/energo-calc/fitzone/send-call-me-back-notification/" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=11;align=left;spacingLeft=13;spacingRight=0;" vertex="1" parent="1">
-          <mxGeometry x="1970" y="775" width="350" height="30" as="geometry" />
+        <mxCell id="jC42f-P9hnnGWAA6iQzn-188" value="/v1/energo-calc/fitzone/send-call-me-back-notification/{traceId}" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=11;align=left;spacingLeft=13;spacingRight=0;" vertex="1" parent="1">
+          <mxGeometry x="1970" y="775" width="410" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jC42f-P9hnnGWAA6iQzn-192" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="jC42f-P9hnnGWAA6iQzn-189" target="jC42f-P9hnnGWAA6iQzn-191">
           <mxGeometry relative="1" as="geometry" />
@@ -422,7 +422,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="jC42f-P9hnnGWAA6iQzn-191" value="/v1/energo-calc/county" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=11;spacingLeft=13;align=left;spacingRight=0;" vertex="1" parent="1">
-          <mxGeometry x="170" y="615" width="190" height="30" as="geometry" />
+          <mxGeometry x="170" y="615" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jC42f-P9hnnGWAA6iQzn-193" value="/v1/energo-calc/county" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=11;align=left;spacingLeft=13;spacingRight=0;" vertex="1" parent="1">
           <mxGeometry x="1045" y="1580" width="170" height="30" as="geometry" />
@@ -584,7 +584,7 @@
           <mxGeometry x="170" y="1400" width="340" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jC42f-P9hnnGWAA6iQzn-224" value="/v1/energo-calc/repayment-loan-calculator" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=11;align=left;spacingLeft=13;spacingRight=0;" vertex="1" parent="1">
-          <mxGeometry x="170" y="1551" width="280" height="30" as="geometry" />
+          <mxGeometry x="170" y="1600" width="280" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jC42f-P9hnnGWAA6iQzn-225" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" target="jC42f-P9hnnGWAA6iQzn-224" source="jC42f-P9hnnGWAA6iQzn-220">
           <mxGeometry relative="1" as="geometry">
@@ -608,7 +608,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="jC42f-P9hnnGWAA6iQzn-228" value="/v2/burinkaapi/loan-for-future" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=11;align=left;spacingLeft=13;spacingRight=0;" vertex="1" parent="1">
-          <mxGeometry x="170" y="1600" width="210" height="30" as="geometry" />
+          <mxGeometry x="170" y="1650" width="210" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jC42f-P9hnnGWAA6iQzn-229" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" target="jC42f-P9hnnGWAA6iQzn-228" source="jC42f-P9hnnGWAA6iQzn-220">
           <mxGeometry relative="1" as="geometry">
@@ -620,7 +620,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="jC42f-P9hnnGWAA6iQzn-230" value="/v2/calc/loans/green/mortgage/calculate" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=11;align=left;spacingLeft=13;spacingRight=0;" vertex="1" parent="1">
-          <mxGeometry x="170" y="1650" width="270" height="30" as="geometry" />
+          <mxGeometry x="170" y="1700" width="270" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jC42f-P9hnnGWAA6iQzn-231" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" target="jC42f-P9hnnGWAA6iQzn-230" source="jC42f-P9hnnGWAA6iQzn-220">
           <mxGeometry relative="1" as="geometry">
@@ -632,7 +632,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="jC42f-P9hnnGWAA6iQzn-232" value="/v1/energo-calc/non-client/save-proposal" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=11;align=left;spacingLeft=13;spacingRight=0;" vertex="1" parent="1">
-          <mxGeometry x="170" y="1501" width="270" height="30" as="geometry" />
+          <mxGeometry x="170" y="1551" width="270" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jC42f-P9hnnGWAA6iQzn-233" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" target="jC42f-P9hnnGWAA6iQzn-232" source="jC42f-P9hnnGWAA6iQzn-220">
           <mxGeometry relative="1" as="geometry">
@@ -665,7 +665,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="jC42f-P9hnnGWAA6iQzn-238" value="/client/finish/:caseId" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=13;spacingLeft=10;align=left;" vertex="1" parent="1">
-          <mxGeometry x="-120" y="1720" width="230" height="40" as="geometry" />
+          <mxGeometry x="-120" y="1770" width="230" height="40" as="geometry" />
         </mxCell>
         <mxCell id="jC42f-P9hnnGWAA6iQzn-239" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;strokeWidth=2;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" target="jC42f-P9hnnGWAA6iQzn-238" source="13">
           <mxGeometry x="-23" y="135.5" width="100" height="100" as="geometry">
@@ -677,54 +677,54 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="jC42f-P9hnnGWAA6iQzn-240" value="/v1/energo-calc/client-proposal/send-to-custom-email/{caseId}" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=11;align=left;spacingLeft=13;spacingRight=0;" vertex="1" parent="1">
-          <mxGeometry x="170" y="1830" width="400" height="30" as="geometry" />
+          <mxGeometry x="170" y="1880" width="400" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jC42f-P9hnnGWAA6iQzn-241" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" target="jC42f-P9hnnGWAA6iQzn-240" source="jC42f-P9hnnGWAA6iQzn-238">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="170" y="1740" as="sourcePoint" />
-            <mxPoint x="379" y="1451" as="targetPoint" />
+            <mxPoint x="170" y="1790" as="sourcePoint" />
+            <mxPoint x="379" y="1501" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="jC42f-P9hnnGWAA6iQzn-242" value="/v1/energo-calc/non-client/save-consents/{caseId}" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=11;align=left;spacingLeft=13;spacingRight=0;" vertex="1" parent="1">
-          <mxGeometry x="170" y="1880" width="330" height="30" as="geometry" />
+          <mxGeometry x="170" y="1930" width="330" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jC42f-P9hnnGWAA6iQzn-243" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" target="jC42f-P9hnnGWAA6iQzn-242" source="jC42f-P9hnnGWAA6iQzn-238">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="110" y="1795" as="sourcePoint" />
-            <mxPoint x="379" y="1506" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="140" y="1760" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="jC42f-P9hnnGWAA6iQzn-244" value="/v1/energo-calc/banker/send-proposal/{caseId}" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=11;align=left;spacingLeft=13;spacingRight=0;" vertex="1" parent="1">
-          <mxGeometry x="170" y="1725" width="310" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="jC42f-P9hnnGWAA6iQzn-245" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" target="jC42f-P9hnnGWAA6iQzn-244" source="jC42f-P9hnnGWAA6iQzn-238">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="130" y="1760" as="sourcePoint" />
-            <mxPoint x="479" y="1401" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="jC42f-P9hnnGWAA6iQzn-246" value="/v1/energo-calc/person-service/email/{caseId}" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=11;align=left;spacingLeft=13;spacingRight=0;" vertex="1" parent="1">
-          <mxGeometry x="170" y="1930" width="300" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="jC42f-P9hnnGWAA6iQzn-247" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" target="jC42f-P9hnnGWAA6iQzn-246" source="jC42f-P9hnnGWAA6iQzn-238">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="110" y="1790" as="sourcePoint" />
+            <mxPoint x="110" y="1845" as="sourcePoint" />
             <mxPoint x="379" y="1556" as="targetPoint" />
             <Array as="points">
               <mxPoint x="140" y="1810" />
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="jC42f-P9hnnGWAA6iQzn-244" value="/v1/energo-calc/banker/send-proposal/{caseId}" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=11;align=left;spacingLeft=13;spacingRight=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="1775" width="310" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jC42f-P9hnnGWAA6iQzn-245" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" target="jC42f-P9hnnGWAA6iQzn-244" source="jC42f-P9hnnGWAA6iQzn-238">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="130" y="1810" as="sourcePoint" />
+            <mxPoint x="479" y="1451" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jC42f-P9hnnGWAA6iQzn-246" value="/v1/energo-calc/person-service/email/{caseId}" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=11;align=left;spacingLeft=13;spacingRight=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="1980" width="300" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jC42f-P9hnnGWAA6iQzn-247" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" target="jC42f-P9hnnGWAA6iQzn-246" source="jC42f-P9hnnGWAA6iQzn-238">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="110" y="1840" as="sourcePoint" />
+            <mxPoint x="379" y="1606" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="140" y="1860" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="jC42f-P9hnnGWAA6iQzn-248" value="/v1/energo-calc/banker/send-to-call-center/{caseId}" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=11;align=left;spacingLeft=13;spacingRight=0;" vertex="1" parent="1">
-          <mxGeometry x="170" y="1780" width="340" height="30" as="geometry" />
+          <mxGeometry x="170" y="1830" width="340" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jC42f-P9hnnGWAA6iQzn-249" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" target="jC42f-P9hnnGWAA6iQzn-248" source="jC42f-P9hnnGWAA6iQzn-238">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="110" y="1690" as="sourcePoint" />
-            <mxPoint x="379" y="1401" as="targetPoint" />
+            <mxPoint x="110" y="1740" as="sourcePoint" />
+            <mxPoint x="379" y="1451" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="jC42f-P9hnnGWAA6iQzn-250" value="/v1/energo-calc/contact-me/{caseId}" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=11;align=left;spacingLeft=13;spacingRight=0;" vertex="1" parent="1">
@@ -740,7 +740,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="jC42f-P9hnnGWAA6iQzn-252" value="/v1/energo-calc/non-client/contact-me/{caseId}" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=11;align=left;spacingLeft=13;spacingRight=0;" vertex="1" parent="1">
-          <mxGeometry x="170" y="1453" width="310" height="30" as="geometry" />
+          <mxGeometry x="170" y="1450" width="310" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jC42f-P9hnnGWAA6iQzn-253" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" target="jC42f-P9hnnGWAA6iQzn-252" source="jC42f-P9hnnGWAA6iQzn-220">
           <mxGeometry relative="1" as="geometry">
@@ -752,7 +752,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="jC42f-P9hnnGWAA6iQzn-254" value="/client/contact-me" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=13;spacingLeft=10;align=left;" vertex="1" parent="1">
-          <mxGeometry x="-120" y="2000" width="230" height="40" as="geometry" />
+          <mxGeometry x="-120" y="2050" width="230" height="40" as="geometry" />
         </mxCell>
         <mxCell id="jC42f-P9hnnGWAA6iQzn-255" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;strokeWidth=2;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" target="jC42f-P9hnnGWAA6iQzn-254" source="13">
           <mxGeometry x="-23" y="135.5" width="100" height="100" as="geometry">
@@ -764,7 +764,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="jC42f-P9hnnGWAA6iQzn-256" value="/banker/done" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=13;spacingLeft=10;align=left;" vertex="1" parent="1">
-          <mxGeometry x="-120" y="2080" width="230" height="40" as="geometry" />
+          <mxGeometry x="-120" y="2130" width="230" height="40" as="geometry" />
         </mxCell>
         <mxCell id="jC42f-P9hnnGWAA6iQzn-257" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;strokeWidth=2;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" target="jC42f-P9hnnGWAA6iQzn-256" source="13">
           <mxGeometry x="-23" y="135.5" width="100" height="100" as="geometry">
@@ -772,6 +772,18 @@
             <mxPoint x="77" y="1585.5" as="targetPoint" />
             <Array as="points">
               <mxPoint x="-180" y="1910" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jC42f-P9hnnGWAA6iQzn-259" value="/v1/energo-calc/non-client/identify-client/{caseId}" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=11;align=left;spacingLeft=13;spacingRight=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="1500" width="330" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jC42f-P9hnnGWAA6iQzn-260" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" target="jC42f-P9hnnGWAA6iQzn-259" source="jC42f-P9hnnGWAA6iQzn-220">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="110" y="1210" as="sourcePoint" />
+            <mxPoint x="174" y="978" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="140" y="1242" />
             </Array>
           </mxGeometry>
         </mxCell>
